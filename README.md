@@ -1,8 +1,8 @@
-### Welcome! I'm Greg ([r3pwn][website])
+## Welcome! I'm Greg ([r3pwn][website])
 
 ---
 
-# Blog posts
+### Blog posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
