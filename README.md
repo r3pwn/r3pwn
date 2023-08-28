@@ -9,6 +9,8 @@
 ### Projects
 - [My personal website][website]
   - React, NextJS, PayloadCMS
+- [libmjolnir](https://github.com/r3pwn/libmjolnir)
+  - A webUSB implementation of Samsung's Odin (Download Mode) protocol, written in TypeScript
 
 ---
 [website]: https://www.r3pwn.com
