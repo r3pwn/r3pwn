@@ -9,7 +9,7 @@
 
 ### Projects
 - [My personal website][website] - [r3pwn-com-turbo](https://github.com/r3pwn/r3pwn-com-turbo)
-  - Turborepo, NextJS, React, [PayloadCMS](https://github.com/payloadcms/payload)
+  - Turborepo, NextJS, React, [PayloadCMS](https://github.com/payloadcms/payload), TypeScript, Shadcn + Tailwind
 - [libmjolnir](https://github.com/r3pwn/libmjolnir)
   - A webUSB implementation of Samsung's Odin (Download Mode) protocol, written in TypeScript
 
